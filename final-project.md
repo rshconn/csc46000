@@ -20,12 +20,14 @@ The goal of your project proposal is to demonstrate that your project is feasibl
   *  ****Describe the problem you are trying to solve and/or the question you are trying to answer. 
 * **Data**:
   * Describe the data that you are going to use. Where did this data come from? How are you going to access it? Why did you choose this dataset? Also include a data dictionary for the raw data.
+  * Describe what cleaning and/or processing you may have to do with your data before you can begin analysis.
 * **Analysis Plan**
-  * 
+  * Describe at least one approach you will try to answer your question. 
 * **Challenges:**
   * Describe any challenges you anticipate while working on the project.
 * **Ethical Considerations**
-  * \*\*\*\*
+  * Who is being centered? Who is being marginalized?
+  * What harm might this project cause?
 
 Your project proposal should be 1-2 pages single-spaced. You can use [this template](https://docs.google.com/document/d/1FCQERhKoaBh2wt0MI3Vhk-M7m6DOSTdHj67yPv8xcfo/edit?usp=sharing) to format your proposal or create your own. 
 
@@ -44,9 +46,5 @@ Feel free to include any other information that you think would be helpful for m
 * **Future Work**
   * Describe what work you are planning to complete for the final analysis.
 
-Your preliminary analysis does not have to be formal. You 
-
-### Final Analysis, Code & Blog Post
-
-### Presentation
+Your preliminary analysis does not have to be a formal writeup. You will submit your Github repository for your project.
 

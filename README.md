@@ -8,16 +8,13 @@ description: Introduction to Data Science
 **Email** rconnolly@ccny.cuny.edu  
 **Lecture** Mondays 6:30 - 9:00pm Eastern, Zoom  
 **Credits & Hours** 3  
-**Office Hours** Fridays 11:00am - 12:00pm Eastern, Zoom or By Appointment  
+**Office Hours** Fridays 11:00am - 12:00pm Eastern, Zoom or By Appointment
 
-
-{% hint style="info" %}
 **Quick Links**  
-[DataCamp](https://learn.datacamp.com/)  
-[Slides](https://drive.google.com/drive/folders/1FjLvheheR1JXg6BJ0zXZal2gXRVe0uIX?usp=sharing)  
-[Lecture Recordings](https://drive.google.com/drive/folders/1w_63OCO5_cNmxc1pEmQLWBIZ83ZA7Z-q?usp=sharing)  
-[Anonymous Feedback Form](https://forms.gle/rrshnB6tWuHy8Ek18)
-{% endhint %}
+[DataCamp ](https://learn.datacamp.com/)  
+[Slides](https://drive.google.com/drive/folders/1FjLvheheR1JXg6BJ0zXZal2gXRVe0uIX)   
+[Lecture Recordings](https://drive.google.com/drive/folders/1w_63OCO5_cNmxc1pEmQLWBIZ83ZA7Z-q)   
+[Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf0jMcfPN6sDBLcL5zs31Lfw0lRoVJs2LG8YvlJGrC_PTy5xg/viewform)
 
 {% tabs %}
 {% tab title="Announcements" %}
