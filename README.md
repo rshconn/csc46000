@@ -6,13 +6,18 @@ description: Introduction to Data Science
 
 **Instructor** Rachel Connolly  
 **Email** rconnolly@ccny.cuny.edu  
-**Lecture** Mondays 6:30 - 9:00pm Eastern, [Zoom](https://nyu.zoom.us/j/93480662286)  
+**Lecture** Mondays 6:30 - 9:00pm Eastern, Zoom  
 **Credits & Hours** 3  
-**Office Hours** Fridays 12:00 - 1:00pm Eastern, [Zoom](https://nyu.zoom.us/j/91349945028) or By Appointment  
-  
+**Office Hours** Fridays 11:00am - 12:00pm Eastern, Zoom or By Appointment  
+
+
+{% hint style="info" %}
 **Quick Links**  
-BlackBoard  
-DataCamp
+[DataCamp](https://learn.datacamp.com/)  
+[Slides](https://drive.google.com/drive/folders/1FjLvheheR1JXg6BJ0zXZal2gXRVe0uIX?usp=sharing)  
+[Lecture Recordings](https://drive.google.com/drive/folders/1w_63OCO5_cNmxc1pEmQLWBIZ83ZA7Z-q?usp=sharing)  
+[Anonymous Feedback Form](https://forms.gle/rrshnB6tWuHy8Ek18)
+{% endhint %}
 
 {% tabs %}
 {% tab title="Announcements" %}
@@ -109,23 +114,160 @@ Meeting ID: 913 4994 5028
 
 _Subject to Change_
 
-| \*\*\*\* | **Date** | Topics | Due |
-| :--- | :--- | :--- | :--- |
-| **Week 1** | 30 Aug 2021 | What is Data Science? | Bring your resume! |
-| **Week 2** | 13 Sept 2021 | Finding Data |  |
-| **Week 3** | 20 Sept 2021 | Processing & Cleaning Data |  |
-| **Week 4** | 27 Sept 2021 | Intro to Regression |  |
-| **Week 5** | 4 Oct 2021 | Regression and Classification |  |
-| **Week 6** | 18 Oct 2021 | Trees & Hyperparameters | Project Proposal |
-| **Week 7** | 25 Oct 2021 | Things I Wished I Learned In School  |  |
-| **Week 8** | 1 Nov 2021 | **Midterm Exam** | None |
-| **Week 9** | 8 Nov 2021 | Performance Evaluation & Ensemble Models |  |
-| **Week 10** | 15 Nov 2021 | NLP |  |
-| **Week 11** | 22 Nov 2021 | Unsupervised Learning | Project Preliminary Analysis |
-| **Week 12** | 29 Nov 2021 | Data Visualization |  |
-| **Week 13** | 6 Dec 2021 | **TBD** |  |
-| **Week 13** | 10 Dec 2021 | N/A | Final Analysis, Code, & Blog Post  |
-| **Week 14** | 13 Dec 2021 | **Project Presentations** | Project Presentations |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
+      <th style="text-align:left"><b>Date</b>
+      </th>
+      <th style="text-align:left">Topics</th>
+      <th style="text-align:left">Due</th>
+      <th style="text-align:left">Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Week 1</b>
+      </td>
+      <td style="text-align:left">30 Aug 2021</td>
+      <td style="text-align:left">What is Data Science?</td>
+      <td style="text-align:left">Bring your resume!</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 2</b>
+      </td>
+      <td style="text-align:left">13 Sept 2021</td>
+      <td style="text-align:left">Data Science Process &amp; Finding Data</td>
+      <td style="text-align:left"><a href="https://forms.gle/iSpBBfGNxrMZhbYv8">Student Survey</a>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><a href="https://docs.microsoft.com/en-us/archive/blogs/machinelearning/how-to-do-data-science">How to do Data Science</a>
+          </li>
+          <li><a href="https://medium.springboard.com/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67">The Data Science Process</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 3</b>
+      </td>
+      <td style="text-align:left">20 Sept 2021</td>
+      <td style="text-align:left">Processing &amp; Cleaning Data</td>
+      <td style="text-align:left">
+        <p>Streamlined Data Ingestion with pandas
+          <br />
+        </p>
+        <p>Introduction to DataCamp Projects</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 4</b>
+      </td>
+      <td style="text-align:left">27 Sept 2021</td>
+      <td style="text-align:left">Intro to Regression</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 5</b>
+      </td>
+      <td style="text-align:left">4 Oct 2021</td>
+      <td style="text-align:left">Regression and Classification</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 6</b>
+      </td>
+      <td style="text-align:left">18 Oct 2021</td>
+      <td style="text-align:left">Trees &amp; Hyperparameters</td>
+      <td style="text-align:left"><b>Project Proposal</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 7</b>
+      </td>
+      <td style="text-align:left">25 Oct 2021</td>
+      <td style="text-align:left">Things I Wished I Learned In School</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 8</b>
+      </td>
+      <td style="text-align:left">1 Nov 2021</td>
+      <td style="text-align:left"><b>Midterm Exam</b>
+      </td>
+      <td style="text-align:left">None</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 9</b>
+      </td>
+      <td style="text-align:left">8 Nov 2021</td>
+      <td style="text-align:left">Performance Evaluation &amp; Ensemble Models</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 10</b>
+      </td>
+      <td style="text-align:left">15 Nov 2021</td>
+      <td style="text-align:left">NLP</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 11</b>
+      </td>
+      <td style="text-align:left">22 Nov 2021</td>
+      <td style="text-align:left">Unsupervised Learning</td>
+      <td style="text-align:left"><b>Project Preliminary Analysis</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 12</b>
+      </td>
+      <td style="text-align:left">29 Nov 2021</td>
+      <td style="text-align:left">Data Visualization</td>
+      <td style="text-align:left">Word Frequency in Classic Novels</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 13</b>
+      </td>
+      <td style="text-align:left">6 Dec 2021</td>
+      <td style="text-align:left"><b>TBD</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 13</b>
+      </td>
+      <td style="text-align:left">10 Dec 2021</td>
+      <td style="text-align:left">N/A</td>
+      <td style="text-align:left"><b>Final Analysis, Code, &amp; Blog Post </b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 14</b>
+      </td>
+      <td style="text-align:left">13 Dec 2021</td>
+      <td style="text-align:left"><b>Project Presentations</b>
+      </td>
+      <td style="text-align:left"><b>Project Presentations</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 
 
