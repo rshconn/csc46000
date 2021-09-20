@@ -164,7 +164,7 @@ _Subject to Change_
       </td>
       <td style="text-align:left">27 Sept 2021</td>
       <td style="text-align:left">Intro to Regression</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Analyze Your Runkeeper Fitness Data</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ _Subject to Change_
       </td>
       <td style="text-align:left">4 Oct 2021</td>
       <td style="text-align:left">Regression and Classification</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Predicting Credit Card Approvals</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ _Subject to Change_
       </td>
       <td style="text-align:left">25 Oct 2021</td>
       <td style="text-align:left">Things I Wished I Learned In School</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Classify Song Genres from Audio Data</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
