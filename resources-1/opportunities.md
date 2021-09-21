@@ -45,3 +45,11 @@
 | Vera Institute of Justice | [Data Collection Intern, Redefining Public Safety](https://vera.applytojob.com/apply/bJ6bihXwl3/Data-Collection-Intern-Redefining-Public-Safety-NYC) | 30 Aug 2021 |
 | Defenders of Wildlife | [Data Science Internship](https://defenders.org/about/jobs?p=job%2Fo3Asgfw5) | 30 Aug 2021 |
 
+### New Grad Opportunities
+
+|  |  |  |
+| :--- | :--- | :--- |
+| Munich Re | [Data Engineer, NA Integrated Analytics](https://munichre-jobs.com/en/munich-re/job/27152-data-engineer-na-integrated-analytics-2022-new-grad-new-york) | 21 September 2021 |
+
+
+
