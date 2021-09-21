@@ -50,6 +50,10 @@
 |  |  |  |
 | :--- | :--- | :--- |
 | Munich Re | [Data Engineer, NA Integrated Analytics](https://munichre-jobs.com/en/munich-re/job/27152-data-engineer-na-integrated-analytics-2022-new-grad-new-york) | 21 September 2021 |
+| Instabase | [Software Engineer, New Grad \(Backend, Full-stack, & ML\)](https://instabase.com/careers/?gh_jid=5498014002) | 21 September 2021 |
+| Quora | [Data Scientist - New Grad 2022 \(Remote\)](https://boards.greenhouse.io/quora/jobs/5438700002) | 21 September 2021 |
+| Quora | [Software Engineer - Machine Learning New Grad 2022 \(Remote\)](https://boards.greenhouse.io/quora/jobs/5451901002) | 21 September 2021 |
+| Duolingo | [Data Scientist, New Graduate](https://boards.greenhouse.io/duolingo/jobs/5445804002) | 21 September 2021 |
 
 
 
