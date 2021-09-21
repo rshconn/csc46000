@@ -13,7 +13,9 @@ In your 10-15 minute presentation, you must include:
 * What is the specific problem they were trying to solve? How is it related to their business?
 * What is the data science method or solution they applied to their problem? **Teach us something new!**
 
-Here is an example of a Data Science Blog Presentation.
+[Here is an example of a Data Science Blog Presentation.](https://docs.google.com/presentation/d/1swPjH3cRUPx2W3pugZpX7Ov1E_3xY3Wvf-WkV9LrtIQ/edit?usp=sharing)
+
+### Data Science & Data Engineering Blogs
 
 These are some industry data science and data engineering blogs to get you started. Feel free to choose an article outside of this list! 
 
@@ -39,4 +41,10 @@ These are some industry data science and data engineering blogs to get you start
 
 {% endtab %}
 {% endtabs %}
+
+### Previous Presentations
+
+|  |  |
+| :--- | :--- |
+| **Week 3** | [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) |
 
