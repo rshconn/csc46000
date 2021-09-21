@@ -152,10 +152,12 @@ _Subject to Change_
       <td style="text-align:left">20 Sept 2021</td>
       <td style="text-align:left">Processing &amp; Cleaning Data</td>
       <td style="text-align:left">
-        <p>Streamlined Data Ingestion with pandas
-          <br />
+        <p><a href="https://learn.datacamp.com/courses/streamlined-data-ingestion-with-pandas">Streamlined Data Ingestion with pandas</a>
+          <br
+          />
         </p>
-        <p>Introduction to DataCamp Projects</p>
+        <p><a href="https://projects.datacamp.com/projects/33">Introduction to DataCamp Projects</a>
+        </p>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -164,7 +166,8 @@ _Subject to Change_
       </td>
       <td style="text-align:left">27 Sept 2021</td>
       <td style="text-align:left">Intro to Regression</td>
-      <td style="text-align:left">Analyze Your Runkeeper Fitness Data</td>
+      <td style="text-align:left"><a href="https://projects.datacamp.com/projects/727">Analyze Your Runkeeper Fitness Data</a>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -172,7 +175,8 @@ _Subject to Change_
       </td>
       <td style="text-align:left">4 Oct 2021</td>
       <td style="text-align:left">Regression and Classification</td>
-      <td style="text-align:left">Predicting Credit Card Approvals</td>
+      <td style="text-align:left"><a href="https://projects.datacamp.com/projects/558">Predicting Credit Card Approvals</a>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -189,7 +193,8 @@ _Subject to Change_
       </td>
       <td style="text-align:left">25 Oct 2021</td>
       <td style="text-align:left">Things I Wished I Learned In School</td>
-      <td style="text-align:left">Classify Song Genres from Audio Data</td>
+      <td style="text-align:left"><a href="https://projects.datacamp.com/projects/449">Classify Song Genres from Audio Data</a>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -231,7 +236,8 @@ _Subject to Change_
       </td>
       <td style="text-align:left">29 Nov 2021</td>
       <td style="text-align:left">Data Visualization</td>
-      <td style="text-align:left">Word Frequency in Classic Novels</td>
+      <td style="text-align:left"><a href="https://projects.datacamp.com/projects/1010">Word Frequency in Classic Novels</a>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
