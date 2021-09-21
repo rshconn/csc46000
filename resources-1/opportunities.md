@@ -37,7 +37,7 @@
 
 ### Fall/Winter/Spring Internships
 
-| Company | Position | Added |
+| Organization | Position | Added |
 | :--- | :--- | :--- |
 | NYC Mayor’s Office of the CTO | [Data Intern/Fellow](https://www1.nyc.gov/assets/cto/#/jobs) | 30 Aug 2021 |
 | Movement Labs | [Fall 2021 Data & Technology Intern](https://movementlabs.com/jobs/) | 30 Aug 2021 |
@@ -47,7 +47,7 @@
 
 ### New Grad Opportunities
 
-|  |  |  |
+| Organization | Position | Added |
 | :--- | :--- | :--- |
 | Munich Re | [Data Engineer, NA Integrated Analytics](https://munichre-jobs.com/en/munich-re/job/27152-data-engineer-na-integrated-analytics-2022-new-grad-new-york) | 21 September 2021 |
 | Instabase | [Software Engineer, New Grad \(Backend, Full-stack, & ML\)](https://instabase.com/careers/?gh_jid=5498014002) | 21 September 2021 |
