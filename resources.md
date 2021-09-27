@@ -48,8 +48,7 @@ These are some industry data science and data engineering blogs to get you start
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left">Articles</th>
-      <th style="text-align:left">Slides</th>
+      <th style="text-align:left">Presentations</th>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +58,6 @@ These are some industry data science and data engineering blogs to get you start
       <td style="text-align:left">Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language
         Processing (<a href="https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html">Article</a>,
         Slides)</td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Week 4</b>
@@ -78,7 +76,6 @@ These are some industry data science and data engineering blogs to get you start
           <a
           href="https://docs.google.com/presentation/d/1ECby-NiY3-6gox1DD7D2A1H7k31xSkwtue5-gNaHCf4/edit?usp=sharing">Slides</a>)</p>
       </td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
