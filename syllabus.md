@@ -47,7 +47,7 @@ Through this course, students should be able to:
       <td style="text-align:left">30%</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="resources.md"><b>Data Science Presentation</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="presentations.md"><b>Data Science Presentation</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:left">10%</td>
     </tr>
@@ -83,7 +83,7 @@ Through this course, students should be able to:
 **Weekly Assignments**  
 This class includes ten weekly assignments to check comprehension and practice skills. All assignments must be completed by Week 12. You are highly encouraged to keep up with the assignments week to week.
 
-\*\*\*\*[**Data Science Presentation**](resources.md)  
+\*\*\*\*[**Data Science Presentation**](presentations.md)  
 ****This class includes a 10-15 minute presentation on an articles or talk that connects a data science method to a problem. The goal of this assignment is to learn more about how data science and data analytics is applied in industry.
 
 **Midterm Exam**   
