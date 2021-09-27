@@ -2,7 +2,7 @@
 
 Choose an article or a talk from a conference that is related to a data science or data engineering topic. 
 
-**Choose articles and talks that connect a data science method to a problem.** The goal of this assignment is to learn more about how data science and data analytics is applied in industry. Articles related to data science at a nonprofit or in government are also great!
+**Connect a data science method to a problem.** The goal of this assignment is to learn more about how data science and data analytics is applied in industry. Articles related to data science at a nonprofit or in government are also great!
 
 In your 10-15 minute presentation, you must include: 
 
