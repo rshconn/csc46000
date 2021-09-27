@@ -44,7 +44,42 @@ These are some industry data science and data engineering blogs to get you start
 
 ### Previous Presentations
 
-|  |  |
-| :--- | :--- |
-| **Week 3** | [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">Articles</th>
+      <th style="text-align:left">Slides</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Week 3</b>
+      </td>
+      <td style="text-align:left">Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language
+        Processing (<a href="https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html">Article</a>,
+        Slides)</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Week 4</b>
+      </td>
+      <td style="text-align:left">
+        <p>Instacart: Predicting The Real-Time Availability of 200 Million Grocery
+          Items (<a href="https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe">Article</a>,
+          <a
+          href="https://docs.google.com/presentation/d/1tPyZAiGY046s3V6t3Ttx-M3juFgKk4g0exfvWVpasWI/edit#slide=id.p">Slides</a>)</p>
+        <p></p>
+        <p>Spotify Experimentation Architecture (<a href="https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/">Article</a>,
+          <a
+          href="https://docs.google.com/presentation/d/1fbUo1UzM-NBu6wSsFj7iD4R9PFGiBzK6K0bp-PmjMfU/edit?usp=sharing">Slides</a>)</p>
+        <p></p>
+        <p>Recognizing People in Photos through on-device machine learning (<a href="https://machinelearning.apple.com/research/recognizing-people-photos">Post</a>,
+          <a
+          href="https://docs.google.com/presentation/d/1ECby-NiY3-6gox1DD7D2A1H7k31xSkwtue5-gNaHCf4/edit?usp=sharing">Slides</a>)</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
