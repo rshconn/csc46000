@@ -33,8 +33,8 @@ Through this course, students should be able to:
 |                                                           |     |
 | --------------------------------------------------------- | --- |
 | ****[**Weekly Assignments**](weekly-assignments.md)****   | 30% |
-| ****[**Data Science Presentation**](presentations.md)**** | 10% |
-| **Midterm Exam**                                          | 20% |
+| ****[**Data Science Presentation**](presentations.md)**** | 5%  |
+| **Midterm Exam**                                          | 25% |
 | ****[**Project** ](final-project.md)****                  |     |
 |     Proposal                                              | 5%  |
 |     Preliminary Analysis                                  | 5%  |

@@ -4,14 +4,13 @@
 
 The bulk of the course grade will be a group project that will be due at the end of the semester. Students will be required to present their progress throughout the course of the semester. Grades will be assigned on the basis of overall project quality, demonstration of core principles taught in the class, and individual contributions to the group's effort.&#x20;
 
-| ****                 |         | **Due**     |
-| -------------------- | ------- | ----------- |
-| Proposal             | 5%      | 18 Oct 2022 |
-| Preliminary Analysis | 5%      | 22 Nov 2022 |
-| Final Code           | 10%     | 9 Dec 2022  |
-| Final Blog Post      | 10%     | 9 Dec 2022  |
-| Presentation         | 10%     | 13 Dec 2022 |
-| ****                 | **40%** |             |
+| ****                              |         | **Due**     |
+| --------------------------------- | ------- | ----------- |
+| Proposal                          | 5%      | 18 Oct 2021 |
+| Preliminary Analysis              | 10%     | 22 Nov 2021 |
+| Final Analysis, Code, & Blog Post | 15%     | 10 Dec 2021 |
+| Presentation                      | 10%     | 13 Dec 2021 |
+| ****                              | **40%** |             |
 
 ### Proposal
 
@@ -43,7 +42,7 @@ Feel free to include any other information that you think would be helpful for m
 * **Exploratory Analysis**
   * Describe what work you have done so far and include the code. This may include descriptive statistics, graphs and charts, and preliminary models.
 * &#x20;**Challenges**
-  * Describe any challenges you've encountered so far. **Let me know if there's anything you need help with!**
+  * Describe any challenges you've encountered so far. Let me know if there's anything you need help with!
 * **Future Work**
   * Describe what work you are planning to complete for the final analysis.
 * **Contributions**
@@ -58,9 +57,9 @@ Your blog post and presentation should include:
 * **Motivation**
   * What is the problem you were trying to solve? Why is this an interesting problem? Assume that your audience knows nothing! Convince them that this is a problem worth solving.&#x20;
 * **Data**
-  * Describe your data. What are its limitations?
+  * Describe your data. What are it's limitati
 * **Evaluation**
-  * Evaluate your model. Do you feel confident about its performance?
+  * Evaluate your model. Do you feel confident about it's performance?
 * **Future Work**
   * Describe what work you would do in the future. This can include work to improve your model, building related models, and/or sourcing different datasets. Are there any other interesting questions you uncovered while you were working on your model?
 
