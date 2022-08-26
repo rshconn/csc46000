@@ -21,7 +21,7 @@ Through this course, students should be able to:
 1. Explain the key steps in a data science project.
 2. Apply Python to load, clean, and process data sets.
 3. Identify key elements of and patterns in a data set using computational analysis and statistical methods.&#x20;
-4. &#x20;Explain and visualize empirical findings using with Python and other resources.
+4. Explain and visualize empirical findings using with Python and other resources.
 5. Explain fundamental principles of machine learning.
 6. Apply predictive algorithms to a data set.
 7. Work effectively in a team dedicated to analyzing data.&#x20;
@@ -30,22 +30,23 @@ Through this course, students should be able to:
 
 ### **Grading**
 
-|                                                                                     |     |
-| ----------------------------------------------------------------------------------- | --- |
-| <p><strong>Weekly Assignments</strong></p><p>There are 10 homework assignments.</p> | 30% |
-| ****[**Data Science Presentation**](presentations.md)****                           | 10% |
-| **Midterm Exam**                                                                    | 20% |
-| ****[**Project** ](final-project.md)****                                            |     |
-|     Proposal                                                                        | 5%  |
-|     Preliminary Analysis                                                            | 10% |
-|     Final Analysis, Code, & Blog Post                                               | 15% |
-|     ****    Presentation                                                            | 10% |
+|                                                           |     |
+| --------------------------------------------------------- | --- |
+| ****[**Weekly Assignments**](weekly-assignments.md)****   | 30% |
+| ****[**Data Science Presentation**](presentations.md)**** | 10% |
+| **Midterm Exam**                                          | 20% |
+| ****[**Project** ](final-project.md)****                  |     |
+|     Proposal                                              | 5%  |
+|     Preliminary Analysis                                  | 5%  |
+|    Final Code                                             | 10% |
+|    Final Blog Post                                        | 10% |
+|     ****    Presentation                                  | 10% |
 
-**Weekly Assignments**\
-****This class includes ten weekly assignments to check comprehension and practice skills. All assignments must be completed by Week 12. You are highly encouraged to keep up with the assignments week to week.
+****[**Weekly Assignments**](weekly-assignments.md)****\
+****This class includes ten weekly assignments to check comprehension and practice skills. All assignments must be completed by Week 14. You are highly encouraged to keep up with the assignments week to week.
 
 ****[**Data Science Presentation**](presentations.md)****\
-****This class includes a 10-15 minute presentation on an articles or talk that connects a data science method to a problem. The goal of this assignment is to learn more about how data science and data analytics is applied in industry.
+****This class includes a 5-10 minute presentation on an articles or talk that connects a data science method to a problem. The goal of this assignment is to learn more about how data science and data analytics is applied in industry.
 
 **Midterm Exam** \
 A short midterm exam will be held in October and will focus on broad concepts the course has surveyed thus far. The format will mimic the style of questions frequently asked in interviews for data-related roles.&#x20;
