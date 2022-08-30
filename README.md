@@ -12,7 +12,7 @@ description: Introduction to Data Science
 
 **Quick Links**\
 ****[DataCamp ](https://learn.datacamp.com/)\
-[Google Drive](https://drive.google.com/drive/folders/1x\_iors9E6GqQ\_8HsaTa9qDXIq1JAU0vx?usp=sharing) (Slides, Lecture Recordings, Materials)\
+[Slides](https://drive.google.com/drive/folders/1dpDlSyTg5DZehM0UgysEleS1LGkAlBnZ?usp=sharing)\
 [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf0jMcfPN6sDBLcL5zs31Lfw0lRoVJs2LG8YvlJGrC\_PTy5xg/viewform)
 
 {% tabs %}
