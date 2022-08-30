@@ -6,9 +6,9 @@ description: Introduction to Data Science
 
 **Instructor** Rachel Connolly\
 **Email** rconnolly@ccny.cuny.edu\
-**Lecture** Mondays 6:30 - 9:00pm Eastern, Zoom\
+**Lecture** Tuesday 6:30 - 9:00pm Eastern\
 **Credits & Hours** 3\
-**Office Hours** Fridays 11:00am - 12:00pm Eastern, Zoom or By Appointment
+**Office Hours** TBD or By Appointment
 
 **Quick Links**\
 ****[DataCamp ](https://learn.datacamp.com/)\
@@ -17,92 +17,66 @@ description: Introduction to Data Science
 
 {% tabs %}
 {% tab title="Announcements" %}
-**29 August 2021**\
-****Welcome to CSC 46000 Introduction to Data Science!
+**30 August 2022**
+
+* Welcome to CSC 46000 Introduction to Data Science!
+* **Grove School Data Science Scholars**
+  * The goal of the Grove School Data Scholars program is to equip engineering students with foundational Data Science skills to apply within their discipline. Data Science is a synthesis of computational thinking with inferential thinking.&#x20;
+  * Grove School Data Scholar are provided the opportunity to take two 3-credit courses, participate in seminars and professional development workshops, special topic workshops in Data Science, and participate in an internship and a 0-credit course which is a practicum report. Grove School Data Scholars are also provided a $5000 stipend for their participation in the Internship, and other components of the program.
+  * [Register for the Information Session on Wednesday August 31  at 2PM](https://ccny.zoom.us/meeting/register/tZ0tfuquqj8rHd1hwtQDfMI8AfPPk3uVBDir)
 {% endtab %}
 
 {% tab title="Class Zoom" %}
-**Join Zoom Meeting**\
-****[**https://nyu.zoom.us/j/93480662286**](https://nyu.zoom.us/j/93480662286)****
+Join Zoom Meeting\
+https://ccny.zoom.us/j/84383653495
 
-Meeting ID: 934 8066 2286\
+Meeting ID: 843 8365 3495\
+\
 One tap mobile\
-\+16465588656,,93480662286# US (New York)\
-\+13017158592,,93480662286# US (Washington DC)
+\+16469313860,,84383653495# US \
+\+16465588656,,84383653495# US (New York)
 
-Dial by your location\
-&#x20;   \+1 646 558 8656 US (New York)\
-&#x20;   \+1 301 715 8592 US (Washington DC)\
-&#x20;   \+1 312 626 6799 US (Chicago)\
-&#x20;   \+1 253 215 8782 US (Tacoma)\
-&#x20;   \+1 346 248 7799 US (Houston)\
-&#x20;   \+1 669 900 6833 US (San Jose)\
-Meeting ID: 934 8066 2286\
-Find your local number: \
-[https://nyu.zoom.us/u/accx0mb9lk](https://nyu.zoom.us/u/accx0mb9lk)
-
-Join by SIP \
-93480662286@zoomcrc.com
-
-Join by H.323\
-162.255.37.11 (US West)\
-162.255.36.11 (US East)\
-221.122.88.195 (China)\
-115.114.131.7 (India Mumbai)\
-115.114.115.7 (India Hyderabad)\
-213.19.144.110 (Amsterdam Netherlands)\
-213.244.140.110 (Germany)\
-103.122.166.55 (Australia Sydney)\
-103.122.167.55 (Australia Melbourne)\
-209.9.211.110 (Hong Kong SAR)\
-149.137.40.110 (Singapore)\
-64.211.144.160 (Brazil)\
-69.174.57.160 (Canada Toronto)\
-65.39.152.160 (Canada Vancouver)\
-207.226.132.110 (Japan Tokyo)\
-149.137.24.110 (Japan Osaka)\
-Meeting ID: 934 8066 2286
+Dial by your location \
+\+1 646 931 3860 US \
+\+1 646 558 8656 US (New York) \
+\+1 312 626 6799 US (Chicago) \
+\+1 301 715 8592 US (Washington DC) \
+\+1 309 205 3325 US \
+\+1 719 359 4580 US \
+\+1 253 215 8782 US (Tacoma) \
+\+1 346 248 7799 US (Houston) \
+\+1 386 347 5053 US \
+\+1 564 217 2000 US \
+\+1 669 444 9171 US \
+\+1 669 900 6833 US (San Jose) \
+\
+Find your local number: https://ccny.zoom.us/u/kcOd5ubWZH
 {% endtab %}
 
 {% tab title="Office Hours Zoom" %}
-**Join Zoom Meeting** \
-****[**https://nyu.zoom.us/j/91349945028**](https://nyu.zoom.us/j/91349945028)****
+Join Zoom Meeting\
+https://ccny.zoom.us/j/6107990462
 
-Meeting ID: 913 4994 5028 \
-One tap mobile\
-\+16465588656,,91349945028# US (New York) +13017158592,,91349945028# US (Washington DC)
+Meeting ID: 610 799 0462 \
+One tap mobile \
+\+16465588656,,6107990462# US (New York) \
+\+16469313860,,6107990462# US
 
 Dial by your location \
-&#x20;   \+1 646 558 8656 US (New York) \
-&#x20;   \+1 301 715 8592 US (Washington DC) \
-&#x20;   \+1 312 626 6799 US (Chicago) \
-&#x20;   \+1 253 215 8782 US (Tacoma) \
-&#x20;   \+1 346 248 7799 US (Houston) \
-&#x20;   \+1 669 900 6833 US (San Jose) \
-Meeting ID: 913 4994 5028 \
-Find your local number: [https://nyu.zoom.us/u/acgE7eC1tL](https://nyu.zoom.us/u/acgE7eC1tL)
-
-Join by SIP\
-91349945028@zoomcrc.com
-
-Join by H.323\
-162.255.37.11 (US West)\
-162.255.36.11 (US East)\
-221.122.88.195 (China)\
-115.114.131.7 (India Mumbai) \
-115.114.115.7 (India Hyderabad)\
-213.19.144.110 (Amsterdam Netherlands)\
-213.244.140.110 (Germany)\
-103.122.166.55 (Australia Sydney)\
-103.122.167.55 (Australia Melbourne)\
-209.9.211.110 (Hong Kong SAR)\
-149.137.40.110 (Singapore)\
-64.211.144.160 (Brazil)\
-69.174.57.160 (Canada Toronto)\
-65.39.152.160 (Canada Vancouver)\
-207.226.132.110 (Japan Tokyo)\
-149.137.24.110 (Japan Osaka)\
-Meeting ID: 913 4994 5028
+\+1 646 558 8656 US (New York) \
+\+1 646 931 3860 US \
+\+1 309 205 3325 US \
+\+1 312 626 6799 US (Chicago) \
+\+1 301 715 8592 US (Washington DC) \
+\+1 253 215 8782 US (Tacoma) \
+\+1 346 248 7799 US (Houston) \
+\+1 386 347 5053 US \
+\+1 564 217 2000 US \
+\+1 669 444 9171 US \
+\+1 669 900 6833 US (San Jose) \
+\+1 719 359 4580 US\
+\
+Find your local number: https://ccny.zoom.us/u/kQwtLAfRH
 {% endtab %}
 {% endtabs %}
 
@@ -110,22 +84,23 @@ Meeting ID: 913 4994 5028
 
 _Subject to Change_
 
-| ****        | **Date**     | **Topics**                               | **Due**                                                                                                                                                                                                                                   | **Resources**                                                                                                                                                                                                                                                                                                                      |
-| ----------- | ------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Week 1**  | 30 Aug 2021  | What is Data Science?                    | Bring your resume!                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 2**  | 13 Sept 2021 | Data Science Process & Finding Data      | [Student Survey](https://forms.gle/iSpBBfGNxrMZhbYv8)                                                                                                                                                                                     | <ul><li><a href="https://docs.microsoft.com/en-us/archive/blogs/machinelearning/how-to-do-data-science">How to do Data Science</a></li><li><a href="https://medium.springboard.com/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67">The Data Science Process</a></li></ul> |
-| **Week 3**  | 20 Sept 2021 | Processing & Cleaning Data               | <p><a href="https://learn.datacamp.com/courses/streamlined-data-ingestion-with-pandas">Streamlined Data Ingestion with pandas</a><br></p><p><a href="https://projects.datacamp.com/projects/33">Introduction to DataCamp Projects</a></p> |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 4**  | 27 Sept 2021 | Intro to Regression                      | [Analyze Your Runkeeper Fitness Data](https://projects.datacamp.com/projects/727)                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 5**  | 4 Oct 2021   | No Class                                 | [Predicting Credit Card Approvals](https://projects.datacamp.com/projects/558)                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 6**  | 18 Oct 2021  | Regression and Classification            | **Project Proposal**                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 7**  | 25 Oct 2021  | Trees & Hyperparameters                  | [Classify Song Genres from Audio Data](https://projects.datacamp.com/projects/449)                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 8**  | 1 Nov 2021   | **Midterm Exam**                         | None                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 9**  | 8 Nov 2021   | Performance Evaluation & Ensemble Models | None                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 10** | 15 Nov 2021  | NLP                                      | [Marketing Analytics: Predicting Customer Churn in Python](https://app.datacamp.com/learn/courses/marketing-analytics-predicting-customer-churn-in-python)                                                                                |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 11** | 22 Nov 2021  | Unsupervised Learning                    | **Project Preliminary Analysis**                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 12** | 29 Nov 2021  | Data Visualization                       | [Word Frequency in Classic Novels](https://projects.datacamp.com/projects/1010)                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 13** | 6 Dec 2021   | **TBD**                                  | [Reducing Traffic Mortality in the US](https://projects.datacamp.com/projects/462)                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 13** | 10 Dec 2021  | N/A                                      | **Final Analysis, Code, & Blog Post**                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                    |
-| **Week 14** | 13 Dec 2021  | **Project Presentations**                | **Project Presentations**                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                    |
+| ****        | **Date**     | **Topic**                                | **Resources**                                                                                                                                                                                                                                                                                                                      |
+| ----------- | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Week 1**  | 30 Aug 2022  | What is Data Science?                    |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 2**  | 6 Sept 2022  | Data Science Process & Finding Data      | <ul><li><a href="https://docs.microsoft.com/en-us/archive/blogs/machinelearning/how-to-do-data-science">How to do Data Science</a></li><li><a href="https://medium.springboard.com/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67">The Data Science Process</a></li></ul> |
+| **Week 3**  | 13 Sept 2022 | Processing & Cleaning Data               |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 4**  | 20 Sept 2022 | Intro to Regression                      |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 5**  | 27 Sept 2022 | **No Class**                             |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 6**  | 4 Oct 2022   | **No Class**                             |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 7**  | 11 Oct 2022  | Regression and Classification            |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 8**  | 18 Oct 2022  | Trees & Hyperparameters                  |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 9**  | 25 Oct 2022  | **Midterm Exam**                         |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 10** | 1 Nov 2022   | Performance Evaluation & Ensemble Models |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 11** | 8 Nov 2022   | NLP                                      |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 12** | 15 Nov 2022  | Unsupervised Learning                    |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 13** | 22 Nov 2022  | Data Visualization                       |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 14** | 29 Nov 2022  | **No Class**                             |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 15** | 6 Dec 2022   | TBD                                      |                                                                                                                                                                                                                                                                                                                                    |
+| **Week 16** | 13 Dec 2022  | **Project Presentations**                |                                                                                                                                                                                                                                                                                                                                    |
 
 ###
