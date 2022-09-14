@@ -6,13 +6,13 @@ description: Introduction to Data Science
 
 **Instructor** Rachel Connolly\
 **Email** rconnolly@ccny.cuny.edu\
-**Lecture** Tuesday 6:30 - 9:00pm Eastern\
+**Lecture** Tuesday 6:30 - 9:00pm Eastern, NAC 7/219 or Zoom\
 **Credits & Hours** 3\
-**Office Hours** TBD or By Appointment
+**Office Hours** Friday 10am - 11am, Zoom or By Appointment
 
 **Quick Links**\
 ****[DataCamp ](https://learn.datacamp.com/)\
-[Slides](https://drive.google.com/drive/folders/1dpDlSyTg5DZehM0UgysEleS1LGkAlBnZ?usp=sharing)\
+[Materials](https://drive.google.com/drive/u/1/folders/1dpDlSyTg5DZehM0UgysEleS1LGkAlBnZ)\
 [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf0jMcfPN6sDBLcL5zs31Lfw0lRoVJs2LG8YvlJGrC\_PTy5xg/viewform)
 
 {% tabs %}
@@ -28,7 +28,7 @@ description: Introduction to Data Science
 
 {% tab title="Class Zoom" %}
 Join Zoom Meeting\
-https://ccny.zoom.us/j/84383653495
+[https://ccny.zoom.us/j/84383653495](https://ccny.zoom.us/j/84383653495)
 
 Meeting ID: 843 8365 3495\
 \
@@ -55,7 +55,7 @@ Find your local number: https://ccny.zoom.us/u/kcOd5ubWZH
 
 {% tab title="Office Hours Zoom" %}
 Join Zoom Meeting\
-https://ccny.zoom.us/j/6107990462
+[https://ccny.zoom.us/j/6107990462](https://ccny.zoom.us/j/6107990462)
 
 Meeting ID: 610 799 0462 \
 One tap mobile \
