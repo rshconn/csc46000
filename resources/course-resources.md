@@ -3,10 +3,12 @@
 ### Python
 
 * [Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/)
+* [DataCamp Cheat Sheets](https://www.datacamp.com/cheat-sheet)
 
 ### Machine Learning
 
 * [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/)
+* [DataCamp Data Cleaning Checklist](https://www.datacamp.com/blog/infographic-data-cleaning-checklist)
 * From Google
   * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
   * [Data Preparation & Feature Learning in ML](https://developers.google.com/machine-learning/data-prep)
