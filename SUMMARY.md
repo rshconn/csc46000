@@ -8,6 +8,7 @@
 
 ## Resources
 
+* [Opportunities](resources/opportunities.md)
 * [Open Datasets](resources/open-datasets.md)
 * [Course Resources](resources/course-resources.md)
 * [Technical Interviewing](resources/technical-interviewing.md)
