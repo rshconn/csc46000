@@ -53,5 +53,3 @@ These are some industry data science and data engineering blogs to get you start
 * [The tech behind the Bundesliga Match Facts xGoals: How machine learning is driving data-driven insights in soccer](https://aws.amazon.com/blogs/machine-learning/the-tech-behind-the-bundesliga-match-facts-xgoals-how-machine-learning-is-driving-data-driven-insights-in-soccer/) (AWS)
 * [How Hundreds of Retailers Use the Instacart Partner Platform to Drive In-Store Efficiencies](https://tech.instacart.com/how-thousands-of-retailers-use-the-instacart-partner-platform-to-drive-in-store-efficiencies-e43b9b4d8c54) (Instacart)
 * [Combo-Attention Network for Baidu Video Advertising](https://dl.acm.org/doi/pdf/10.1145/3394486.3403297) (Baidu)
-* [Applying Machine Learning in Internal Audit with Sparsely Labeled Data](https://www.uber.com/blog/ml-internal-audit/) (Uber)
-* [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/) (YouTube)
