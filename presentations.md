@@ -43,3 +43,13 @@ These are some industry data science and data engineering blogs to get you start
 {% endtabs %}
 
 ### Previous Presentations
+
+* [Applying Deep Learning to Metastatic Breast Cancer Detection](https://ai.googleblog.com/2018/10/applying-deep-learning-to-metastatic.html), [Slides](https://docs.google.com/presentation/d/1yz3eNoZGJ68E\_QadVZHOsp65yTmw5yhH2hjYft\_dIe8/edit?usp=sharing) (Google AI)
+* [Automating Data Protection at Scale, Part 1](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08), [Slides](https://docs.google.com/presentation/d/1zL93jILqFuVPJm57nPNWeNV-sZPDzAEWCJIcfE5ZD6A/edit?usp=sharing) (Airbnb)
+* [Microsoft’s GitHub Copilot AI is making rapid progress. Here’s how its human leader thinks about it](https://www.cnbc.com/2022/10/14/microsoft-ai-leaps-ahead-heres-what-its-human-leader-thinks-about-it.html) (GitHub)
+* [One Activity to Rule Them All](https://www.etsy.com/codeascraft/one-activity-to-rule-them-all) (Etsy)
+* [“I See Tacos In Your Future”: Order Volume Forecasting at Grubhub](https://bytes.grubhub.com/i-see-tacos-in-your-future-order-volume-forecasting-at-grubhub-44d47ad08d5b) (Grubhub)
+* [Predicting the real-time availability of 200 million grocery items](https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe) (Instacart)
+* [The tech behind the Bundesliga Match Facts xGoals: How machine learning is driving data-driven insights in soccer](https://aws.amazon.com/blogs/machine-learning/the-tech-behind-the-bundesliga-match-facts-xgoals-how-machine-learning-is-driving-data-driven-insights-in-soccer/) (AWS)
+* [How Hundreds of Retailers Use the Instacart Partner Platform to Drive In-Store Efficiencies](https://tech.instacart.com/how-thousands-of-retailers-use-the-instacart-partner-platform-to-drive-in-store-efficiencies-e43b9b4d8c54) (Instacart)
+* [Combo-Attention Network for Baidu Video Advertising](https://dl.acm.org/doi/pdf/10.1145/3394486.3403297) (Baidu)
